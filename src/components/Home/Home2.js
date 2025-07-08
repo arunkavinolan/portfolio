@@ -24,7 +24,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> HTML, CSS, Javascript and React. </b>
               </i>
               <br />
               <br />
@@ -41,10 +41,10 @@ function Home2() {
               Whenever possible, I also apply my passion for developing products
               with <b className="purple">Node.js</b> and
               <i>
-                <b className="purple">
+                
                   {" "}
                   Modern Javascript Library and Frameworks
-                </b>
+          
               </i>
               &nbsp; like
               <i>
@@ -60,13 +60,13 @@ function Home2() {
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
-            <h1>FIND ME ON</h1>
+            {/* <h1>FIND ME ON</h1> */}
             <p>
-              Feel free to <span className="purple">connect </span>with me
+              Do the stuff that makes you <span className="purple"> Great</span>
             </p>
-            <ul className="home-about-social-links">
-              <li className="social-icons">
-                <a
+            {/* <ul className="home-about-social-links">
+              <li className="social-icons"> */}
+                {/* <a
                   href="https://github.com/soumyajit4419"
                   target="_blank"
                   rel="noreferrer"
@@ -105,7 +105,7 @@ function Home2() {
                   <AiFillInstagram />
                 </a>
               </li>
-            </ul>
+            </ul> */}
           </Col>
         </Row>
       </Container>
