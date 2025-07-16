@@ -15,7 +15,7 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Arunkavi with  < AiFillHeart style={{color:"red"}}/></h3>
+          <h3>Designed and Developed by Arunkavi with <AiFillHeart style={{ color: "red" }} /></h3>
         </Col>
         <Col md="4" className="footer-copywright">
           
